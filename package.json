@@ -1,13 +1,13 @@
 {
   "name": "rapzz-storage",
-  "version": "1.1.1",
+  "version": "1.2.2",
   "description": "Load and store project and asset files for Scratch 3.0",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/FlipZ3ro/rapzz-storage.git#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FlipZ3ro/rapzz-storage.git",
-    "sha": "24caf426efdc88b23f4919430c87c1d3d4db6120"
+    "sha": "a55c7bcbd675b9a282ee59963c19e87ffc3d488a"
   },
   "main": "./dist/node/scratch-storage.js",
   "browser": "./dist/web/scratch-storage.js",
