@@ -1,7 +1,9 @@
+const baseConfig = require('scratch-semantic-release-config');
+
 module.exports = {
-    extends: 'scratch-semantic-release-config',
+    ...baseConfig,
     branches: [
-        'main', // Tambahkan branch default 'main' di sini atau sesuaikan dengan branch default Anda
+        ...baseConfig.branches,
         {
             name: 'develop',
             channel: 'next' // Tentukan saluran 'next' untuk branch 'develop'
@@ -13,3 +15,4 @@ module.exports = {
         }
     ]
 };
+
