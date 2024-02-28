@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## scratch-storage
 #### Scratch Storage is a library for loading and storing project and asset files for Scratch 3.0
 
@@ -152,3 +153,6 @@ and will not break the build unexpectedly.
 We provide [Scratch](https://scratch.mit.edu) free of charge, and want to keep it that way! Please consider making a
 [donation](https://secure.donationpay.org/scratchfoundation/) to support our continued engineering, design, community,
 and resource development efforts. Donations of any size are appreciated. Thank you!
+=======
+# sender-flipz
+>>>>>>> 7ecd2c3b01b8717174779a4e56062e3cc557e885
